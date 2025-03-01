@@ -234,4 +234,3 @@ var htmlPage = `
 
 3. **Accede a la Visualización:**  
    Abre tu navegador en [http://localhost:8080](http://localhost:8080) para ver la visualización interactiva del grafo.
-s
