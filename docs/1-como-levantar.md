@@ -2,7 +2,7 @@ A continuación te presento un ejemplo completo en Go que utiliza Neo4j para alm
 
 (Documentación hecha con chatgpt)
 
-> **Nota:** Asegúrate de tener Neo4j corriendo (por ejemplo, mediante Docker) y de cambiar la contraseña en el código (en el parámetro de autenticación) por la configurada en tu instancia de Neo4j.
+> **Nota:** Asegúrate de tener Neo4j corriendo (por ejemplo, mediante Docker) y de cambiar la contraseña en el código (en el parámetro de autenticación) por la configurada en tu instancia de Neo4j. Usuario y contraseña por defecto de Neo4j son `neo4j` y `neo4j` respectivamente.
 
 ---
 
